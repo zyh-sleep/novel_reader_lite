@@ -27,13 +27,12 @@
 1. 点击仓库页面右上角 `Code`
 2. 选择 `Download ZIP`
 3. 解压后进入项目文件夹
-4. 运行下面这条命令
+4. 打开 `dist` 文件夹
+5. 双击 `QingYuReader.exe`
 
-```powershell
-python main.py
-```
+整个程序已经打包好，正常情况下不需要额外安装 Python。
 
-如果你的电脑已经装好了 Python，一般就可以直接启动。
+如果 Windows 弹出安全提示，选择“更多信息”后再点“仍要运行”即可。
 
 ## 快捷键
 
